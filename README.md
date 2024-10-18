@@ -1,4 +1,4 @@
-# Analista-de-Dados
+# Curso de Análise de Dados da EBAC Online
 Meu nome é Pedro, pretendente a analista de dados, e neste repositório compartilho minha trajetória no curso de Análise de Dados da EBAC Online.
 
 Este repositório documenta meu progresso no curso, contendo:
